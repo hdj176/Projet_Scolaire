@@ -1,12 +1,11 @@
 ### ![DorfJavatik](ressources/Images/Titre.png)
 - Fait par Alexis Hadjem-Brancher, Thomas Renault, Louis Tanchou
 
-## ATENTION ! Ceci est un deuxieme répos suite a un probleme technique, les premiers commit sont sur notre ancien repos : [Premier Repo Bugger](https://grond.iut-fbleau.fr/hadjem-b/SAE31_2024)
-## Projet de groupe SAE 3.1 
+
 Le project est fait en [Java](https://www.java.com/fr/) ([JDK-18](https://www.oracle.com/fr/java/technologies/downloads/#jdk21) **Minimum**) a l'aide de [swing](https://download.java.net/java/early_access/loom/docs/api/java.desktop/javax/swing/package-summary.html).
 l'archive JAR est éxécutable et ne require rien d'autre que [JDK-18](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-windows)
 
-### Information sur la Base de données : [bdd](InfoBDD/BDD.md)
+
 
 ## Notre version
 ### Notre version se divise en plusieurs parties :
